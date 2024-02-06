@@ -1,6 +1,6 @@
 ## Welcome to ControlPlane Enterprise for Flux CD ⚡☸️
 
-[ControlPlane](https://control-plane.io/) offers a hardened, enterprise-grade distribution and
+ControlPlane offers a hardened, enterprise-grade distribution and
 support services for the CNCF-graduated [Flux project](https://www.cncf.io/projects/flux/).
 
 Connect with us at solutions@control-plane.io to explore how ControlPlane Enterprise for
@@ -9,15 +9,15 @@ tailored to your challenges, goals, and budget.
 
 ### Enterprise Distribution
 
-The ControlPlane distribution comes with enterprise-hardened container images for the
-Flux [GitOps Toolkit controllers](https://fluxcd.io/flux/components/) including:
+The [ControlPlane distribution for Flux CD](https://github.com/controlplaneio-fluxcd/distribution)
+comes with enterprise-hardened Flux controllers including:
 
 - Hardened container images and SBOMs in-sync with upstream Flux releases.
-- Continuous scanning and CVE patching for Flux controller images.
+- Continuous scanning and CVE patching for Flux container base images.
 - SLAs for remediation of critical vulnerabilities affecting Flux functionality.
 - FIPS-compliant Flux builds based on FIPS 140-2 validated BoringSSL.
 - Extended compatibility of Flux controllers for the latest six minor releases of Kubernetes.
-- Assured compatibility with Kubernetes LTS versions provided by cloud vendors such as Azure, AWS, Google and others.
+- Assured compatibility with Kubernetes LTS versions provided by cloud vendors.
 
 > [!TIP]
 > ControlPlane offers a seamless transition between CNCF Flux to the enterprise distribution with no impact
@@ -31,7 +31,7 @@ to CNCF Flux users who require assistance for running Flux in production.
 
 The support services include:
 
-- Dedicated 24x7x365 on-call support.
+- Dedicated on-call support for all your Flux needs.
 - Disclosure and guidance on how to remediate Flux-related vulnerabilities.
 - Constant communication of Flux-related news (releases, patches, RFCs, Roadmap changes).
 - Kubernetes and Flux training & workshops (incurs additional cost).
