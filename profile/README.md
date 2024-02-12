@@ -3,8 +3,8 @@
 ControlPlane offers a hardened, enterprise-grade distribution and
 support services for the CNCF-graduated [Flux project](https://www.cncf.io/projects/flux/).
 
-Connect with us at solutions@control-plane.io to explore how ControlPlane Enterprise for
-FluxCD aligns with your unique requirements. Together, we'll develop and review a plan
+[Connect with us](https://control-plane.io/contact/?inquiry=fluxcd) to explore how ControlPlane 
+Enterprise for Flux CD aligns with your unique requirements. Together, we'll develop and review a plan
 tailored to your challenges, goals, and budget.
 
 ### Enterprise Distribution
@@ -48,4 +48,3 @@ catalyzing organizational transformation with education and support.
 
 Can we help with your security challenges?
 [Contact us](https://control-plane.io/contact) to talk about zero trust systems and security.
-
